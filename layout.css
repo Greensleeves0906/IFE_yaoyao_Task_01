@@ -1,0 +1,21 @@
+input{
+    -web-kit-appearance:none;
+    -moz-appearance: none;
+    font-size:12px;
+    height:30px;
+    width: 200px;
+    border-radius:4px;
+    border:1px solid #c8cccf;
+    color:#6a6f77;
+}
+button{
+    -web-kit-appearance:none;
+    -moz-appearance: none;
+    font-size:18px;
+    height:30px;
+    width: 60px;
+    border-radius:4px;
+    border:1px solid #c8cccf;
+    color:#FFFFFF;
+    background-color: blue;
+}
